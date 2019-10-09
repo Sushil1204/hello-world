@@ -1,7 +1,5 @@
 # hello-world
-This is my first repository
-#include<stdio.h>
-main()
-{
-printf("Hello World");
-}
+n1 = int(input("Enter First No. :",))
+n2 = int(input("Enter Second No. :",))
+result = n1 + n2
+print(result)
